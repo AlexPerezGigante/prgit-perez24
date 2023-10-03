@@ -1,4 +1,4 @@
 
-	gcc mitja.c -o mitja.bin
+gcc mitja.c -o mitja.bin
 
 
